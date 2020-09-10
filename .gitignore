@@ -1,0 +1,7 @@
+e
+*.bak
+skip/
+AlexaDemo/GNU ARM v7.2.1 - Default/
+AlexaDemo/BgBuild_Log.txt
+AlexaDemo/create_bl_files.sh
+
