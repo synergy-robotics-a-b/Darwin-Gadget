@@ -18,8 +18,8 @@
 #define FRIENDLY_NAME         "Darwin"
 #define MODEL_NAME            "Darwin-003"
 
-// #define AMAZON_DEVICE_TYPE    "<Device_Type>"   // Darwin Tech (This needs to be Unique to the Product and Company)
-// #define AMAZON_SECRET         "<Amazon_Secret>"  // Darwin Tech (This is needs to be Unique to the Product and Company)
+#define AMAZON_DEVICE_TYPE    "A1XLP584IH0TDY"   // Darwin Tech (This needs to be Unique to the Product and Company)
+#define AMAZON_SECRET         "03BFC9A8E91B91944AB360608BFA21EC65E87CB71570E5833AFE0F56285805EF"  // Darwin Tech (This is needs to be Unique to the Product and Company)
 
 #define FWVER_MAX_LEN         8
 
